@@ -46,18 +46,23 @@ let str2 = " MAK"
 
 let str3 = (str1+str2)
 //console.log(str3);
-/*
-console.log("1" + 3);
-console.log(2 + "7");
-console.log("7" + 7 + 2);
-console.log(3 + 6 + "3");
-/*
 
-console.log((3 + 4)* 5 % 3);
+//console.log("1" + 3);
+//console.log(2 + "7");
+//console.log("7" + 7 + 2);
+//console.log(3 + 6 + "3");
+
+//console.log((3 + 4)* 5 % 3);
 
 //try to not type confusing code
 
 console.log(+true);
+console.log(+"");
 
+let num1, num2, num3
 
+num1 = num2 = num3 = 2 + 2
 
+let GameCounter = 100
+GameCounter++;
+console.log(GameCounter);
